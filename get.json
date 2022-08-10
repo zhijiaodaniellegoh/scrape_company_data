@@ -1,23 +1,873 @@
 [
     {
+        "id": "rec02JAEsKPrT8OsD",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5362\u6c38\u771f",
+            "english_name": "L\u00fa Y\u01d2ngzh\u0113n",
+            "chinese_name": "\u5362\u6c38\u771f"
+        }
+    },
+    {
         "id": "rec0SmoD0HNg7CYTW",
         "createdTime": "2022-07-11T00:55:22.000Z",
         "fields": {
-            "_scrape": true,
-            "_full_chinese_name": "\u6dd8\u5b9d\uff08\u4e2d\u56fd\uff09\u8f6f\u4ef6\u6709\u9650\u516c\u53f8"
+            "year_founded_source_url": "https://www.qcc.com/firm/h1a3ef7ad8ec2e56ba43e250225d1d28.html",
+            "year_founded_source": "Qichacha",
+            "hq_location": [
+                "Hong Kong SAR, China"
+            ],
+            "_full_chinese_name": "\u5b81\u5fb7\u65f6\u4ee3\u65b0\u80fd\u6e90\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "year_founded": "1991"
+        }
+    },
+    {
+        "id": "rec1jWhnADzi99XA2",
+        "createdTime": "2022-08-07T20:03:59.000Z",
+        "fields": {
+            "_leader_10_title": [
+                "Employee Supervisor"
+            ],
+            "_leader_9_title": [
+                "Vice President"
+            ],
+            "_leader_11": [
+                "recZ74iMdLoj6GuJc"
+            ],
+            "_leader_4": [
+                "recBI5iMmfhtr0DcF"
+            ],
+            "year_founded_source_url": "https://www.qcc.com/firm/02d68fdfc282fa75bcac3e3b30be5b4b.html",
+            "year_founded_source": "Qichacha",
+            "_leader_1": [
+                "recSyu0rINF5DAUxt"
+            ],
+            "hq_location": [
+                "Beijing, China"
+            ],
+            "_legal_representative": [
+                "recSyu0rINF5DAUxt"
+            ],
+            "_leader_2_title": [
+                "Board Secretary"
+            ],
+            "_leader_11_title": [
+                "Vice President"
+            ],
+            "_leader_1_title": [
+                "Chairman",
+                "Executive Director"
+            ],
+            "_leader_16_title": [
+                "Non-Executive Director"
+            ],
+            "_registered_address": "\u5317\u4eac\u5e02\u897f\u57ce\u533a\u590d\u5174\u95e8\u5185\u5927\u885755\u53f7",
+            "_full_chinese_name": "\u4e2d\u56fd\u5de5\u5546\u94f6\u884c\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "_leader_16": [
+                "recYHcDv7ma2k2eC2"
+            ],
+            "_leader_12_title": [
+                "Non-Executive Director"
+            ],
+            "_profile_type": "Company",
+            "leadership_source": "Qichacha",
+            "_leader_4_title": [
+                "Executive Director",
+                "Vice President"
+            ],
+            "_leader_2": [
+                "recy7VaayLujs6ZwS"
+            ],
+            "company_type": "Publicly Traded SOE",
+            "_leader_6": [
+                "receXEuNQnouuUvCJ"
+            ],
+            "_leader_7_title": [
+                "Non-Executive Director"
+            ],
+            "_leader_3": [
+                "rec8Er7B4tFPeBbqT"
+            ],
+            "_leader_14_title": [
+                "Non-Executive Director"
+            ],
+            "english_name": "Industrial and Commercial Bank of China",
+            "_full_english_name": "Industrial and Commercial Bank of China Limited ",
+            "_leader_6_title": [
+                "Supervisor"
+            ],
+            "_leader_7": [
+                "rec02JAEsKPrT8OsD"
+            ],
+            "_leader_8": [
+                "reccvye7KFysj50ql"
+            ],
+            "year_founded": "1985",
+            "_leader_15_title": [
+                "Non-Executive Director"
+            ],
+            "_leader_13": [
+                "recXcGyuuHH4rvIgh"
+            ],
+            "_leader_10": [
+                "recoPqGqRvXlIo3Cb"
+            ],
+            "_leader_8_title": [
+                "Employee Supervisor"
+            ],
+            "_leader_13_title": [
+                "Vice President"
+            ],
+            "_leader_9": [
+                "recPGWhLS8q5WDM7A"
+            ],
+            "_leader_14": [
+                "recsXRyriCkycNU2g"
+            ],
+            "_leader_3_title": [
+                "Vice Chairman",
+                "Executive Director",
+                "President"
+            ],
+            "_industry_information": "\u529e\u7406\u4eba\u6c11\u5e01\u5b58\u6b3e\u3001\u8d37\u6b3e\uff1b\u540c\u4e1a\u62c6\u501f\u4e1a\u52a1\uff1b\u56fd\u5185\u5916\u7ed3\u7b97\uff1b\u529e\u7406\u7968\u636e\u627f\u5151\u3001\u8d34\u73b0\u3001\u8f6c\u8d34\u73b0\uff1b\u5404\u7c7b\u6c47\u5151\u4e1a\u52a1\uff1b\u4ee3\u7406\u8d44\u91d1\u6e05\u7b97\uff1b\u63d0\u4f9b\u4fe1\u7528\u8bc1\u670d\u52a1\u53ca\u62c5\u4fdd\uff1b\u4ee3\u7406\u9500\u552e\u4e1a\u52a1\uff1b\u4ee3\u7406\u53d1\u884c\u3001\u4ee3\u7406\u627f\u9500\u3001\u4ee3\u7406\u5151\u4ed8\u653f\u5e9c\u503a\u5238\uff1b\u4ee3\u6536\u4ee3\u4ed8\u4e1a\u52a1\uff1b\u4ee3\u7406\u8bc1\u5238\u8d44\u91d1\u6e05\u7b97\u4e1a\u52a1\uff08\u94f6\u8bc1\u8f6c\u8d26\uff09\uff1b\u4fdd\u9669\u517c\u4e1a\u4ee3\u7406\u4e1a\u52a1\uff1b\u4ee3\u7406\u653f\u7b56\u6027\u94f6\u884c\u3001\u5916\u56fd\u653f\u5e9c\u548c\u56fd\u9645\u91d1\u878d\u673a\u6784\u8d37\u6b3e\u4e1a\u52a1\uff1b\u4fdd\u7ba1\u7bb1\u670d\u52a1\uff1b\u53d1\u884c\u91d1\u878d\u503a\u5238\uff1b\u4e70\u5356\u653f\u5e9c\u503a\u5238\u3001\u91d1\u878d\u503a\u5238\uff1b\u8bc1\u5238\u6295\u8d44\u57fa\u91d1\u3001\u4f01\u4e1a\u5e74\u91d1\u6258\u7ba1\u4e1a\u52a1\uff1b\u4f01\u4e1a\u5e74\u91d1\u53d7\u6258\u7ba1\u7406\u670d\u52a1\u3001\u5e74\u91d1\u8d26\u6237\u7ba1\u7406\u670d\u52a1\uff1b\u5f00\u653e\u5f0f\u57fa\u91d1\u7684\u6ce8\u518c\u767b\u8bb0\u3001\u8ba4\u8d2d\u3001\u7533\u8d2d\u548c\u8d4e\u56de\u4e1a\u52a1\uff1b\u8d44\u4fe1\u8c03\u67e5\u3001\u54a8\u8be2\u3001\u89c1\u8bc1\u4e1a\u52a1\uff1b\u8d37\u6b3e\u627f\u8bfa\uff1b\u4f01\u4e1a\u3001\u4e2a\u4eba\u8d22\u52a1\u987e\u95ee\u670d\u52a1\uff1b\u7ec4\u7ec7\u6216\u53c2\u52a0\u94f6\u56e2\u8d37\u6b3e\uff1b\u5916\u6c47\u5b58\u6b3e\uff1b\u5916\u6c47\u8d37\u6b3e\uff1b\u5916\u5e01\u5151\u6362\uff1b\u51fa\u53e3\u6258\u6536\u53ca\u8fdb\u53e3\u4ee3\u6536\uff1b\u5916\u6c47\u7968\u636e\u627f\u5151\u548c\u8d34\u73b0\uff1b\u5916\u6c47\u501f\u6b3e\uff1b\u5916\u6c47\u62c5\u4fdd\uff1b\u53d1\u884c\u3001\u4ee3\u7406\u53d1\u884c\u3001\u4e70\u5356\u6216\u4ee3\u7406\u4e70\u5356\u80a1\u7968\u4ee5\u5916\u7684\u5916\u5e01\u6709\u4ef7\u8bc1\u5238\uff1b\u81ea\u8425\u3001\u4ee3\u5ba2\u5916\u6c47\u4e70\u5356\uff1b\u5916\u6c47\u91d1\u878d\u884d\u751f\u4e1a\u52a1\uff1b\u94f6\u884c\u5361\u4e1a\u52a1\uff1b\u7535\u8bdd\u94f6\u884c\u3001\u7f51\u4e0a\u94f6\u884c\u3001\u624b\u673a\u94f6\u884c\u4e1a\u52a1\uff1b\u529e\u7406\u7ed3\u6c47\u3001\u552e\u6c47\u4e1a\u52a1\uff1b\u7ecf\u56fd\u52a1\u9662\u94f6\u884c\u4e1a\u76d1\u7763\u7ba1\u7406\u673a\u6784\u6279\u51c6\u7684\u5176\u4ed6\u4e1a\u52a1\u3002\uff08\u5e02\u573a\u4e3b\u4f53\u4f9d\u6cd5\u81ea\u4e3b\u9009\u62e9\u7ecf\u8425\u9879\u76ee\uff0c\u5f00\u5c55\u7ecf\u8425\u6d3b\u52a8\uff1b\u4f9d\u6cd5\u987b\u7ecf\u6279\u51c6\u7684\u9879\u76ee\uff0c\u7ecf\u76f8\u5173\u90e8\u95e8\u6279\u51c6\u540e\u4f9d\u6279\u51c6\u7684\u5185\u5bb9\u5f00\u5c55\u7ecf\u8425\u6d3b\u52a8\uff1b\u4e0d\u5f97\u4ece\u4e8b\u56fd\u5bb6\u548c\u672c\u5e02\u4ea7\u4e1a\u653f\u7b56\u7981\u6b62\u548c\u9650\u5236\u7c7b\u9879\u76ee\u7684\u7ecf\u8425\u6d3b\u52a8\u3002\uff09",
+            "_leader_5_title": [
+                "Vice President",
+                "Executive Director"
+            ],
+            "_leader_15": [
+                "recI8fE2pWOnHVO0N"
+            ],
+            "tag_text": "Industrial and Commercial Bank of China",
+            "_leader_5": [
+                "rec6a2SWVXhnrQyq5"
+            ],
+            "_leader_12": [
+                "receqys7o1r0mpv7q"
+            ],
+            "chinese_name": "\u4e2d\u56fd\u5de5\u5546\u94f6\u884c",
+            "leadership_source_url": "https://www.qcc.com/firm/02d68fdfc282fa75bcac3e3b30be5b4b.html"
+        }
+    },
+    {
+        "id": "rec2A3SlU7jQwns5X",
+        "createdTime": "2022-07-24T21:47:36.000Z",
+        "fields": {
+            "year_founded_source_url": "https://www.qcc.com/firm/h1a3ef7ad8ec2e56ba43e250225d1d28.html",
+            "year_founded_source": "Qichacha",
+            "hq_location": [
+                "Hong Kong SAR, China"
+            ],
+            "_full_chinese_name": "\u9999\u6e2f\u4e2d\u592e\u7d50\u7b97\uff08\u4ee3\u7406\u4eba\uff09\u6709\u9650\u516c\u53f8",
+            "year_founded": "1991"
+        }
+    },
+    {
+        "id": "rec2D6bdZCkMs1WLj",
+        "createdTime": "2022-08-01T17:20:30.000Z",
+        "fields": {
+            "_full_chinese_name": "\u9648\u6ce2\u6d77",
+            "english_name": "Ch\u00e9n B\u014dh\u01cei"
+        }
+    },
+    {
+        "id": "rec2QcXHEypi8iWxv",
+        "createdTime": "2022-07-31T21:22:36.000Z",
+        "fields": {
+            "english_name": "Zh\u00e8ng J\u00f9nf\u0101ng"
+        }
+    },
+    {
+        "id": "rec5KiNLd4RmbZspH",
+        "createdTime": "2022-07-24T21:48:27.000Z",
+        "fields": {
+            "_full_chinese_name": "\u8054\u60f3\u63a7\u80a1\u80a1\u4efd\u6709\u9650\u516c\u53f8"
+        }
+    },
+    {
+        "id": "rec6JcD1XLLLNMhAY",
+        "createdTime": "2022-08-07T19:49:46.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5c0f\u7c73\u96c6\u5718"
+        }
+    },
+    {
+        "id": "rec6a2SWVXhnrQyq5",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u90d1\u56fd\u96e8",
+            "english_name": "Zh\u00e8ng Gu\u00f3y\u01d4",
+            "chinese_name": "\u90d1\u56fd\u96e8"
+        }
+    },
+    {
+        "id": "rec6vF3WrUfC1j37a",
+        "createdTime": "2022-07-24T21:48:26.000Z",
+        "fields": {
+            "_full_chinese_name": "\u4e2d\u56fd\u70df\u8349\u603b\u516c\u53f8"
+        }
+    },
+    {
+        "id": "rec6xEIRYfFS71jv7",
+        "createdTime": "2022-08-01T17:20:30.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5218\u6dfc",
+            "english_name": "L\u00edu Mi\u01ceo"
+        }
+    },
+    {
+        "id": "rec7NhaXtlx2zmGmU",
+        "createdTime": "2022-07-25T00:15:14.000Z",
+        "fields": {
+            "_full_chinese_name": "Oversea",
+            "english_name": "Oversea"
+        }
+    },
+    {
+        "id": "rec7oT2z77Is4nOjG",
+        "createdTime": "2022-07-25T00:15:14.000Z",
+        "fields": {
+            "_full_chinese_name": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u8d22\u653f\u90e8",
+            "english_name": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u8d22\u653f\u90e8"
+        }
+    },
+    {
+        "id": "rec8Er7B4tFPeBbqT",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5ed6\u6797",
+            "english_name": "Li\u00e0o L\u00edn",
+            "chinese_name": "\u5ed6\u6797"
+        }
+    },
+    {
+        "id": "rec9RSvFpPEyFF4iU",
+        "createdTime": "2022-07-19T01:59:10.000Z",
+        "fields": {
+            "_full_chinese_name": "\u963f\u91cc\u5df4\u5df4\u7f51\u7edc\u4e2d\u56fd\u6709\u9650\u516c\u53f8 ",
+            "english_name": "ALIBABA.COM CHINA"
+        }
+    },
+    {
+        "id": "rec9bZmAXpDcW7KTt",
+        "createdTime": "2022-08-01T17:20:30.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5218\u51b0",
+            "english_name": "L\u00edu B\u012bng"
+        }
+    },
+    {
+        "id": "rec9nLtuqvfsT83ao",
+        "createdTime": "2022-07-24T21:47:55.000Z",
+        "fields": {
+            "year_founded_source_url": "https://www.qcc.com/firm/8589993778e262151e20290b29961040.html",
+            "year_founded_source": "Qichacha",
+            "hq_location": [
+                "Baotou, Inner Mongolia, China"
+            ],
+            "_full_chinese_name": "\u4e2d\u56fd\u5317\u65b9\u7a00\u571f\uff08\u96c6\u56e2\uff09\u9ad8\u79d1\u6280\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "year_founded": "1997"
+        }
+    },
+    {
+        "id": "recB8oU2exGkioJIv",
+        "createdTime": "2022-07-25T00:15:14.000Z",
+        "fields": {
+            "_full_chinese_name": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u5168\u56fd\u793e\u4f1a\u4fdd\u969c\u57fa\u91d1\u7406\u4e8b\u4f1a",
+            "english_name": "\u4e2d\u534e\u4eba\u6c11\u5171\u548c\u56fd\u5168\u56fd\u793e\u4f1a\u4fdd\u969c\u57fa\u91d1\u7406\u4e8b\u4f1a"
+        }
+    },
+    {
+        "id": "recBI5iMmfhtr0DcF",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u738b\u666f\u6b66",
+            "english_name": "W\u00e1ng J\u01d0ngw\u01d4",
+            "chinese_name": "\u738b\u666f\u6b66"
+        }
+    },
+    {
+        "id": "recCtfABIKPSx6ltT",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u6c88\u70b3\u7199",
+            "english_name": "Sh\u011bn B\u01d0ngx\u012b",
+            "chinese_name": "\u6c88\u70b3\u7199"
+        }
+    },
+    {
+        "id": "recFDtpn6TEYMWP7W",
+        "createdTime": "2022-07-25T00:15:14.000Z",
+        "fields": {
+            "_full_chinese_name": "DBS",
+            "english_name": "D Bs"
+        }
+    },
+    {
+        "id": "recGG3g9VNVPGqxGQ",
+        "createdTime": "2022-08-07T22:56:29.000Z",
+        "fields": {
+            "english_name": "T\u00e1n R\u00f9is\u014dng"
+        }
+    },
+    {
+        "id": "recGs58KpE8GRz0ET",
+        "createdTime": "2022-07-19T02:14:43.000Z",
+        "fields": {
+            "_full_chinese_name": "\u6b63\u6cf0\u96c6\u56e2\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "english_name": "CHINT Group Corporation"
+        }
+    },
+    {
+        "id": "recI8fE2pWOnHVO0N",
+        "createdTime": "2022-08-08T00:07:35.000Z",
+        "fields": {
+            "_full_chinese_name": "\u51af\u536b\u4e1c",
+            "english_name": "F\u00e9ng W\u00e8id\u014dng",
+            "chinese_name": "\u51af\u536b\u4e1c"
+        }
+    },
+    {
+        "id": "recJci6NY7Qlefglo",
+        "createdTime": "2022-07-18T13:52:46.000Z",
+        "fields": {
+            "owner_2_percent": "3.6842%",
+            "year_founded_source_url": "https://www.qcc.com/firm/2d493cb094fa2023667ada478cb2dab8.html",
+            "year_founded_source": "Qichacha",
+            "hq_location": [
+                "Yueqing, Zhejiang, China"
+            ],
+            "owner_1_source_url": "https://www.qcc.com/firm/2d493cb094fa2023667ada478cb2dab8.html",
+            "owner_2_source": "Qichacha",
+            "owner_1_source": "Qichacha",
+            "_full_chinese_name": "\u6d59\u6c5f\u6b63\u6cf0\u65b0\u80fd\u6e90\u6295\u8d44\u6709\u9650\u516c\u53f8",
+            "owner_2": [
+                "recbXWlfOF1HvIIPJ"
+            ],
+            "year_founded": "2012",
+            "owner_1": [
+                "recGs58KpE8GRz0ET"
+            ],
+            "owner_1_percent": "96.3158%",
+            "owner_2_source_url": "https://www.qcc.com/firm/2d493cb094fa2023667ada478cb2dab8.html"
+        }
+    },
+    {
+        "id": "recKUxLRvfosj8oAD",
+        "createdTime": "2022-07-24T21:58:53.000Z",
+        "fields": {
+            "year_founded_source_url": "https://www.qcc.com/firm/75b32f5f6ea51442fe04ef3b39ce6bf2.html",
+            "year_founded_source": "Qichacha",
+            "hq_location": [
+                "Shanghai, China"
+            ],
+            "owner_1_source_url": "https://www.qcc.com/firm/75b32f5f6ea51442fe04ef3b39ce6bf2.html",
+            "owner_1_source": "Qichacha",
+            "_full_chinese_name": "\u4e2d\u56fd\u5b9d\u6b66\u94a2\u94c1\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+            "_profile_type": "Company",
+            "english_name": "Baosteel Group Corporation ",
+            "_full_english_name": "Baosteel Group Corporation ",
+            "year_founded": "1991",
+            "owner_1": [
+                "recZU8oTV9GrqIC8A"
+            ],
+            "owner_1_percent": "100%",
+            "_industry_information": "\u7ecf\u8425\u56fd\u52a1\u9662\u6388\u6743\u8303\u56f4\u5185\u7684\u56fd\u6709\u8d44\u4ea7\uff0c\u5f00\u5c55\u6709\u5173\u56fd\u6709\u8d44\u672c\u6295\u8d44\u3001\u8fd0\u8425\u4e1a\u52a1\u3002\u3010\u4f9d\u6cd5\u987b\u7ecf\u6279\u51c6\u7684\u9879\u76ee\uff0c\u7ecf\u76f8\u5173\u90e8\u95e8\u6279\u51c6\u540e\u65b9\u53ef\u5f00\u5c55\u7ecf\u8425\u6d3b\u52a8\u3011",
+            "tag_text": "Baosteel Group Corporation ",
+            "chinese_name": "\u4e2d\u56fd\u5b9d\u6b66\u94a2\u94c1\u96c6\u56e2"
+        }
+    },
+    {
+        "id": "recKVzygj2X1W3z6o",
+        "createdTime": "2022-08-07T19:49:40.000Z",
+        "fields": {
+            "year_founded_source_url": "https://www.qcc.com/firm/7e11a75e8cd500decc5dbcf7840d0eff.html",
+            "year_founded_source": "Qichacha",
+            "hq_location": [
+                "Beijing, China"
+            ],
+            "_legal_representative": [
+                "recGG3g9VNVPGqxGQ"
+            ],
+            "_registered_address": "\u5317\u4eac\u5e02\u671d\u9633\u533a\u66d9\u5149\u897f\u91cc\u75325\u53f7\u966219\u53f7\u697c",
+            "_full_chinese_name": "\u4e2d\u56fd\u822a\u7a7a\u5de5\u4e1a\u96c6\u56e2\u6709\u9650\u516c\u53f8",
+            "_profile_type": "Company",
+            "company_type": "Publicly Traded SOE",
+            "english_name": "Aviation Industry Corporation of China ",
+            "_full_english_name": "Aviation Industry Corporation of China ",
+            "year_founded": "2008",
+            "_industry_information": "\u7ecf\u8425\u56fd\u52a1\u9662\u6388\u6743\u8303\u56f4\u5185\u7684\u56fd\u6709\u8d44\u4ea7\uff1b\u519b\u7528\u822a\u7a7a\u5668\u53ca\u53d1\u52a8\u673a\u3001\u5236\u5bfc\u6b66\u5668\u3001\u519b\u7528\u71c3\u6c14\u8f6e\u673a\u3001\u6b66\u5668\u88c5\u5907\u914d\u5957\u7cfb\u7edf\u4e0e\u4ea7\u54c1\u7684\u7814\u7a76\u3001\u8bbe\u8ba1\u3001\u7814\u5236\u3001\u8bd5\u9a8c\u3001\u751f\u4ea7\u3001\u9500\u552e\u3001\u7ef4\u4fee\u3001\u4fdd\u969c\u53ca\u670d\u52a1\u7b49\u4e1a\u52a1\uff1b\u91d1\u878d\u3001\u79df\u8d41\u3001\u901a\u7528\u822a\u7a7a\u670d\u52a1\u3001\u4ea4\u901a\u8fd0\u8f93\u3001\u533b\u7597\u3001\u5de5\u7a0b\u52d8\u5bdf\u8bbe\u8ba1\u3001\u5de5\u7a0b\u627f\u5305\u4e0e\u65bd\u5de5\u3001\u623f\u5730\u4ea7\u5f00\u53d1\u7b49\u4ea7\u4e1a\u7684\u6295\u8d44\u4e0e\u7ba1\u7406\uff1b\u6c11\u7528\u822a\u7a7a\u5668\u53ca\u53d1\u52a8\u673a\u3001\u673a\u8f7d\u8bbe\u5907\u4e0e\u7cfb\u7edf\u3001\u71c3\u6c14\u8f6e\u673a\u3001\u6c7d\u8f66\u548c\u6469\u6258\u8f66\u53ca\u53d1\u52a8\u673a\uff08\u542b\u96f6\u90e8\u4ef6\uff09\u3001\u5236\u51b7\u8bbe\u5907\u3001\u7535\u5b50\u4ea7\u54c1\u3001\u73af\u4fdd\u8bbe\u5907\u3001\u65b0\u80fd\u6e90\u8bbe\u5907\u7684\u8bbe\u8ba1\u3001\u7814\u5236\u3001\u5f00\u53d1\u3001\u8bd5\u9a8c\u3001\u751f\u4ea7\u3001\u9500\u552e\u3001\u7ef4\u4fee\u670d\u52a1\uff1b\u8bbe\u5907\u79df\u8d41\uff1b\u5de5\u7a0b\u52d8\u5bdf\u8bbe\u8ba1\uff1b\u5de5\u7a0b\u627f\u5305\u4e0e\u65bd\u5de5\uff1b\u623f\u5730\u4ea7\u5f00\u53d1\u4e0e\u7ecf\u8425\uff1b\u4e0e\u4ee5\u4e0a\u4e1a\u52a1\u76f8\u5173\u7684\u6280\u672f\u8f6c\u8ba9\u3001\u6280\u672f\u670d\u52a1\uff1b\u8fdb\u51fa\u53e3\u4e1a\u52a1\uff1b\u8239\u8236\u7684\u6280\u672f\u5f00\u53d1\u3001\u9500\u552e\uff1b\u5de5\u7a0b\u88c5\u5907\u6280\u672f\u5f00\u53d1\uff1b\u65b0\u80fd\u6e90\u4ea7\u54c1\u7684\u6280\u672f\u5f00\u53d1\u3002\uff08\u4f01\u4e1a\u4f9d\u6cd5\u81ea\u4e3b\u9009\u62e9\u7ecf\u8425\u9879\u76ee\uff0c\u5f00\u5c55\u7ecf\u8425\u6d3b\u52a8\uff1b\u4f9d\u6cd5\u987b\u7ecf\u6279\u51c6\u7684\u9879\u76ee\uff0c\u7ecf\u76f8\u5173\u90e8\u95e8\u6279\u51c6\u540e\u4f9d\u6279\u51c6\u7684\u5185\u5bb9\u5f00\u5c55\u7ecf\u8425\u6d3b\u52a8\uff1b\u4e0d\u5f97\u4ece\u4e8b\u672c\u5e02\u4ea7\u4e1a\u653f\u7b56\u7981\u6b62\u548c\u9650\u5236\u7c7b\u9879\u76ee\u7684\u7ecf\u8425\u6d3b\u52a8\u3002\uff09",
+            "tag_text": "Aviation Industry Corporation of China ",
+            "chinese_name": "\u4e2d\u56fd\u822a\u7a7a\u5de5\u4e1a\u96c6\u56e2"
+        }
+    },
+    {
+        "id": "recLk9lIJFxjbWSP8",
+        "createdTime": "2022-08-07T19:55:11.000Z",
+        "fields": {
+            "_full_chinese_name": "\u674e\u5b81\u6709\u9650\u516c\u53f8"
         }
     },
     {
         "id": "recMIC86o8iCbJq5u",
         "createdTime": "2022-06-19T23:20:07.000Z",
         "fields": {
+            "owner_2_percent": "35.7470%",
+            "year_founded_source_url": "https://www.qcc.com/firm/c70a55cb048c8e4db7bca357a2c113e0.html",
+            "owner_3": [
+                "rec9RSvFpPEyFF4iU"
+            ],
+            "year_founded_source": "Qichacha",
             "hq_location": [
                 "Hangzhou, Zhejiang, China"
             ],
+            "owner_1_source_url": "https://www.qcc.com/firm/c70a55cb048c8e4db7bca357a2c113e0.html",
+            "owner_2_source": "Qichacha",
+            "owner_1_source": "Qichacha",
             "_full_chinese_name": "\u963f\u91cc\u5df4\u5df4\uff08\u4e2d\u56fd\uff09\u7f51\u7edc\u6280\u672f\u6709\u9650\u516c\u53f8",
+            "owner_2": [
+                "recTWmAuEon4SEr4o"
+            ],
+            "owner_3_percent": "6.6583%",
             "english_name": "Alibaba (China) Network Technology",
+            "owner_3_source_url": "https://www.qcc.com/firm/c70a55cb048c8e4db7bca357a2c113e0.html",
             "_full_english_name": "Alibaba (China) Network Technology Co., Ltd.",
-            "year_founded": "1999"
+            "owner_3_source": "Qichacha",
+            "year_founded": "1999",
+            "owner_1": [
+                "recVT5jzIQn6wbnMi"
+            ],
+            "owner_1_percent": "57.5947%",
+            "owner_2_source_url": "https://www.qcc.com/firm/c70a55cb048c8e4db7bca357a2c113e0.html"
+        }
+    },
+    {
+        "id": "recMm2T1Ukw9K9s4B",
+        "createdTime": "2022-07-31T20:14:57.000Z",
+        "fields": {
+            "_full_chinese_name": "\u6b66\u6c49\u74ef\u8d8a\u7f51\u89c6\u6709\u9650\u516c\u53f8",
+            "english_name": "Wuhan Ouyue Network TV"
+        }
+    },
+    {
+        "id": "recOlNe2INUENubFj",
+        "createdTime": "2022-08-01T17:19:04.000Z",
+        "fields": {
+            "_leader_4": [
+                "rec2D6bdZCkMs1WLj"
+            ],
+            "year_founded_source_url": "https://www.qcc.com/firm/078853cf6ffb71d1f40d37240e8b2b34.html",
+            "year_founded_source": "Qichacha",
+            "_leader_1": [
+                "rec6xEIRYfFS71jv7"
+            ],
+            "hq_location": [
+                "Shenzhen, Guangdong, China"
+            ],
+            "_legal_representative": [
+                "rec6xEIRYfFS71jv7"
+            ],
+            "_leader_2_title": [
+                "Director"
+            ],
+            "_leader_1_title": [
+                "Chairman",
+                "General Manager",
+                "Legal Representative"
+            ],
+            "_registered_address": "\u6df1\u5733\u5e02\u9f99\u534e\u533a\u5927\u6d6a\u8857\u9053\u9ad8\u5cf0\u793e\u533a\u534e\u8363\u8def\u683c\u745e\u666e\u7b2c1\u680b1\u5c42\u53ca2-4\u5c42\u30012\u680b(1-4\u5c42)\u3001\u7efc\u5408\u697c(1-3\u5c42)",
+            "_full_chinese_name": "\u6df1\u5733\u5e02\u683c\u745e\u666e\u7535\u6c60\u6709\u9650\u516c\u53f8",
+            "_profile_type": "Company",
+            "_leader_4_title": [
+                "Supervisor"
+            ],
+            "_leader_2": [
+                "reccJbPoT7Surx3Fq"
+            ],
+            "company_type": "Private",
+            "_leader_3": [
+                "rec9bZmAXpDcW7KTt"
+            ],
+            "english_name": "Shen ZHEN Grepow BATTERY",
+            "_full_english_name": "Shen ZHEN Grepow BATTERY Co., Ltd. ",
+            "year_founded": "1998",
+            "_leader_3_title": [
+                "Director"
+            ],
+            "_industry_information": "\u4e00\u822c\u7ecf\u8425\u9879\u76ee\u662f\uff1a\u5f00\u53d1\u3001\u751f\u4ea7\u7ecf\u8425\u954d\u6c22\u7535\u6c60\u3001\u9502\u79bb\u5b50\u7535\u6c60\uff1b\u5145\u7535\u5668\u9644\u5c5e\u4ea7\u54c1\u7684\u6280\u672f\u5f00\u53d1\uff1b\u91d1\u5c5e\u6750\u6599\u3001\u91d1\u5c5e\u5236\u54c1\u3001\u7535\u5b50\u4ea7\u54c1\u3001\u4e94\u91d1\u914d\u4ef6\u3001\u5316\u5de5\u539f\u6599\uff08\u4e0d\u542b\u5371\u9669\u5316\u5b66\u54c1\u3001\u6613\u5236\u6bd2\u5316\u5b66\u54c1\u3001\u6210\u54c1\u6cb9\uff09\u3001\u65e5\u7528\u767e\u8d27\u3001\u954d\u6c22\u7535\u6c60\u539f\u6750\u6599\u3001\u9502\u79bb\u5b50\u7535\u6c60\u539f\u6750\u6599\u7684\u9500\u552e\uff1b\u8d27\u7269\u53ca\u6280\u672f\u8fdb\u51fa\u53e3\uff08\u4e0d\u542b\u6cd5\u5f8b\u3001\u884c\u653f\u6cd5\u89c4\u3001\u56fd\u52a1\u9662\u89c4\u5b9a\u7981\u6b62\u53ca\u51b3\u5b9a\u9700\u524d\u7f6e\u5ba1\u6279\u7684\u9879\u76ee\uff09\uff0c\u666e\u901a\u8d27\u8fd0\uff08\u6709\u6548\u671f\u81f32016\u5e7410\u670814\u65e5\uff09\u3002\uff0c\u8bb8\u53ef\u7ecf\u8425\u9879\u76ee\u662f\uff1a",
+            "tag_text": "Shen ZHEN Grepow BATTERY",
+            "chinese_name": "\u6df1\u5733\u5e02\u683c\u745e\u666e\u7535\u6c60"
+        }
+    },
+    {
+        "id": "recPGWhLS8q5WDM7A",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5f20\u6587\u6b66",
+            "english_name": "Zh\u0101ng W\u00e9nw\u01d4",
+            "chinese_name": "\u5f20\u6587\u6b66"
+        }
+    },
+    {
+        "id": "recSE01tttKIwIL8P",
+        "createdTime": "2022-07-31T21:22:36.000Z",
+        "fields": {
+            "english_name": "Ji\u01ceng F\u0101ng"
+        }
+    },
+    {
+        "id": "recSyu0rINF5DAUxt",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u9648\u56db\u6e05",
+            "english_name": "Ch\u00e9n S\u00ecq\u012bng",
+            "chinese_name": "\u9648\u56db\u6e05"
+        }
+    },
+    {
+        "id": "recTWmAuEon4SEr4o",
+        "createdTime": "2022-07-19T01:59:10.000Z",
+        "fields": {
+            "_full_chinese_name": "\u6d59\u6c5f\u5929\u732b\u6280\u672f\u6709\u9650\u516c\u53f8",
+            "english_name": "Zhejiang Tmall Technology"
+        }
+    },
+    {
+        "id": "recVT5jzIQn6wbnMi",
+        "createdTime": "2022-07-19T01:59:10.000Z",
+        "fields": {
+            "_leader_4": [
+                "rec2QcXHEypi8iWxv"
+            ],
+            "year_founded_source_url": "https://www.qcc.com/firm/fa3d9de6fd3ccf354b5ae34c38eb7587.html",
+            "year_founded_source": "Qichacha",
+            "_leader_1": [
+                "recbN0i8p7CchsYbu"
+            ],
+            "hq_location": [
+                "Hangzhou, Zhejiang, China"
+            ],
+            "_legal_representative": [
+                "recbN0i8p7CchsYbu"
+            ],
+            "owner_1_source_url": "https://www.qcc.com/firm/fa3d9de6fd3ccf354b5ae34c38eb7587.html",
+            "_leader_2_title": [
+                "Director"
+            ],
+            "_leader_1_title": [
+                "Chairman",
+                "General Manager",
+                "Legal Representative"
+            ],
+            "owner_1_source": "Qichacha",
+            "_registered_address": "\u6d59\u6c5f\u7701\u676d\u5dde\u5e02\u4f59\u676d\u533a\u4e94\u5e38\u8857\u9053\u6587\u4e00\u897f\u8def969\u53f73\u5e625\u5c42554\u5ba4",
+            "_full_chinese_name": "\u6dd8\u5b9d\uff08\u4e2d\u56fd\uff09\u8f6f\u4ef6\u6709\u9650\u516c\u53f8",
+            "_profile_type": "Company",
+            "_leader_4_title": [
+                "Supervisor"
+            ],
+            "_leader_2": [
+                "recstxLZvVVjdSLSU"
+            ],
+            "company_type": "Private",
+            "_leader_3": [
+                "recSE01tttKIwIL8P"
+            ],
+            "english_name": "Tao Bao (China) Software",
+            "_full_english_name": "Tao Bao (China) Software Co., Ltd. ",
+            "year_founded": "2004",
+            "owner_1": [
+                "recuT6MWZ7cmCpjdB"
+            ],
+            "owner_1_percent": "100%",
+            "_leader_3_title": [
+                "Director"
+            ],
+            "_industry_information": "\u7814\u7a76\u3001\u5f00\u53d1\u8ba1\u7b97\u673a\u8f6f\u3001\u786c\u4ef6\uff0c\u7f51\u7edc\u6280\u672f\u4ea7\u54c1\uff0c\u591a\u5a92\u4f53\u4ea7\u54c1\uff1b\u7cfb\u7edf\u96c6\u6210\u7684\u8bbe\u8ba1\u3001\u8c03\u8bd5\u53ca\u7ef4\u62a4\uff1b\u9500\u552e\u81ea\u8eab\u5f00\u53d1\u7684\u4ea7\u54c1\uff1b\u5e76\u63d0\u4f9b\u8ba1\u7b97\u673a\u6280\u672f\u54a8\u8be2\u3001\u670d\u52a1\uff0c\u7535\u5b50\u5546\u52a1\u5e73\u53f0\u652f\u6301\uff1b\u7ecf\u6d4e\u4fe1\u606f\u54a8\u8be2\uff08\u542b\u5546\u54c1\u4e2d\u4ecb\uff09\uff08\u56fd\u5bb6\u7981\u6b62\u548c\u9650\u5236\u7684\u9664\u5916\uff0c\u51e1\u6d89\u53ca\u8bb8\u53ef\u8bc1\u5236\u5ea6\u7684\u51ed\u8bc1\u7ecf\u8425\uff09",
+            "tag_text": "Tao Bao (China) Software",
+            "chinese_name": "\u6dd8\u5b9d\uff08\u4e2d\u56fd\uff09\u8f6f\u4ef6"
+        }
+    },
+    {
+        "id": "recXcGyuuHH4rvIgh",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5f20\u4f1f\u6b66",
+            "english_name": "Zh\u0101ng W\u011biw\u01d4",
+            "chinese_name": "\u5f20\u4f1f\u6b66"
+        }
+    },
+    {
+        "id": "recYHcDv7ma2k2eC2",
+        "createdTime": "2022-08-08T00:09:45.000Z",
+        "fields": {
+            "_full_chinese_name": "\u66f9\u5229\u7fa4",
+            "english_name": "C\u00e1o L\u00ecq\u00fan",
+            "chinese_name": "\u66f9\u5229\u7fa4"
+        }
+    },
+    {
+        "id": "recZ74iMdLoj6GuJc",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5f90\u5b88\u672c",
+            "english_name": "X\u00fa Sh\u01d2ub\u011bn",
+            "chinese_name": "\u5f90\u5b88\u672c"
+        }
+    },
+    {
+        "id": "recZU8oTV9GrqIC8A",
+        "createdTime": "2022-07-24T21:57:52.000Z",
+        "fields": {
+            "_full_chinese_name": "\u56fd\u52a1\u9662\u56fd\u6709\u8d44\u4ea7\u76d1\u7763\u7ba1\u7406\u59d4\u5458\u4f1a",
+            "english_name": "SASAC",
+            "_full_english_name": "State-owned Assets Supervision and Administration Commission of the State Council"
+        }
+    },
+    {
+        "id": "recbN0i8p7CchsYbu",
+        "createdTime": "2022-07-31T21:33:40.000Z",
+        "fields": {
+            "_full_chinese_name": "\u6234\u73ca",
+            "english_name": "D\u00e0ish\u0101n"
+        }
+    },
+    {
+        "id": "recbXWlfOF1HvIIPJ",
+        "createdTime": "2022-07-19T02:14:43.000Z",
+        "fields": {
+            "_full_chinese_name": "\u4e0a\u6d77\u6cf0\u71a0\u6295\u8d44\u7ba1\u7406\u6709\u9650\u516c\u53f8",
+            "english_name": "Shanghai Taiyi Investment Management"
+        }
+    },
+    {
+        "id": "reccJbPoT7Surx3Fq",
+        "createdTime": "2022-08-01T17:20:30.000Z",
+        "fields": {
+            "_full_chinese_name": "\u4f55\u5b89\u8f69",
+            "english_name": "H\u00e9 \u0100nxu\u0101n"
+        }
+    },
+    {
+        "id": "reccvye7KFysj50ql",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u9ec4\u529b",
+            "english_name": "Hu\u00e1ng L\u00ec",
+            "chinese_name": "\u9ec4\u529b"
+        }
+    },
+    {
+        "id": "receXEuNQnouuUvCJ",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5218\u6f9c\u98da",
+            "english_name": "L\u00edu L\u00e1nbi\u0101o",
+            "chinese_name": "\u5218\u6f9c\u98da"
+        }
+    },
+    {
+        "id": "receqys7o1r0mpv7q",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u9648\u6021\u82b3",
+            "english_name": "Ch\u00e9n Y\u00edf\u0101ng",
+            "chinese_name": "\u9648\u6021\u82b3"
+        }
+    },
+    {
+        "id": "recgjhXZElrp28uAU",
+        "createdTime": "2022-07-31T20:10:42.000Z",
+        "fields": {
+            "year_founded_source_url": "https://www.qcc.com/firm/2a2f3ed1f7aa58453b2e7ad777a24ec0.html",
+            "year_founded_source": "Qichacha",
+            "hq_location": [
+                "Wuhan, Hubei, China"
+            ],
+            "_registered_address": "\u6b66\u6c49\u4e1c\u6e56\u65b0\u6280\u672f\u5f00\u53d1\u533a\u5149\u8c37\u5927\u905358\u53f7\u5173\u5357\u798f\u661f\u533b\u836f\u56ed6\u680b9\u5c42906-13(\u81ea\u8d38\u533a\u6b66\u6c49\u7247\u533a)",
+            "_full_chinese_name": "\u6b66\u6c49\u8d85\u8d5b\u5546\u52a1\u4fe1\u606f\u54a8\u8be2\u5408\u4f19\u4f01\u4e1a\uff08\u6709\u9650\u5408\u4f19\uff09",
+            "_profile_type": "Company",
+            "english_name": "Wuhan Chaosai Business Information Consulting Partnership",
+            "_full_english_name": "Wuhan Chaosai Business Information Consulting Partnership (Limited Partnership)",
+            "year_founded": "2021",
+            "_industry_information": "\u4e00\u822c\u9879\u76ee\uff1a\u4fe1\u606f\u54a8\u8be2\u670d\u52a1\uff08\u4e0d\u542b\u8bb8\u53ef\u7c7b\u4fe1\u606f\u54a8\u8be2\u670d\u52a1\uff09\uff1b\u4f01\u4e1a\u7ba1\u7406\u54a8\u8be2\uff08\u9664\u8bb8\u53ef\u4e1a\u52a1\u5916\uff0c\u53ef\u81ea\u4e3b\u4f9d\u6cd5\u7ecf\u8425\u6cd5\u5f8b\u6cd5\u89c4\u975e\u7981\u6b62\u6216\u9650\u5236\u7684\u9879\u76ee\uff09",
+            "tag_text": "Wuhan Chaosai Business Information Consulting Partnership",
+            "chinese_name": "\u6b66\u6c49\u8d85\u8d5b\u5546\u52a1\u4fe1\u606f\u54a8\u8be2\u5408\u4f19\u4f01\u4e1a"
+        }
+    },
+    {
+        "id": "rech0IQnPD5YaYfAy",
+        "createdTime": "2022-07-17T21:32:55.000Z",
+        "fields": {
+            "year_founded_source_url": "https://www.qcc.com/firm/3bc5dc687133ec9d6efdcd5e8e02ad4d.html",
+            "year_founded_source": "Qichacha",
+            "hq_location": [
+                "Shanghai, China"
+            ],
+            "_full_chinese_name": "\u4e2d\u56fd\u4e1c\u65b9\u822a\u7a7a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "year_founded": "1995"
+        }
+    },
+    {
+        "id": "recij4OGzUEqldgTN",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u9ec4\u826f\u6ce2",
+            "english_name": "Hu\u00e1ng Li\u00e1ngb\u014d",
+            "chinese_name": "\u9ec4\u826f\u6ce2"
+        }
+    },
+    {
+        "id": "recm8q0O6XuBKmptz",
+        "createdTime": "2022-08-07T20:02:38.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5317\u4eac\u5feb\u624b\u79d1\u6280\u6709\u9650\u516c\u53f8",
+            "_scrape": true
+        }
+    },
+    {
+        "id": "recoPqGqRvXlIo3Cb",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5434\u7fd4\u6c5f",
+            "english_name": "W\u00fa Xi\u00e1ngji\u0101ng",
+            "chinese_name": "\u5434\u7fd4\u6c5f"
+        }
+    },
+    {
+        "id": "recp4ItSb1VsEGCOg",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5f20\u6770",
+            "english_name": "Zh\u0101ng Ji\u00e9",
+            "chinese_name": "\u5f20\u6770"
+        }
+    },
+    {
+        "id": "recrbPlCXUFBpZM8v",
+        "createdTime": "2022-08-01T14:40:21.000Z",
+        "fields": {
+            "_full_chinese_name": "\u6bd4\u4e9a\u8fea\u6c7d\u8f66\u6709\u9650\u516c\u53f8"
+        }
+    },
+    {
+        "id": "recsU5lKxM3CbSIri",
+        "createdTime": "2022-07-24T21:48:24.000Z",
+        "fields": {
+            "_full_chinese_name": "\u9ad8\u967d\u79d1\u6280\uff08\u4e2d\u570b\uff09\u6709\u9650\u516c\u53f8"
+        }
+    },
+    {
+        "id": "recsXRyriCkycNU2g",
+        "createdTime": "2022-08-08T00:07:35.000Z",
+        "fields": {
+            "_full_chinese_name": "\u8463\u9633",
+            "english_name": "D\u01d2ng Y\u00e1ng",
+            "chinese_name": "\u8463\u9633"
+        }
+    },
+    {
+        "id": "recstxLZvVVjdSLSU",
+        "createdTime": "2022-07-31T21:22:36.000Z",
+        "fields": {
+            "english_name": "L\u01d0 F\u0101gu\u0101ng"
+        }
+    },
+    {
+        "id": "recuT6MWZ7cmCpjdB",
+        "createdTime": "2022-07-31T19:55:50.000Z",
+        "fields": {
+            "_full_chinese_name": "\u6dd8\u5b9d\u4e2d\u56fd\u63a7\u80a1\u6709\u9650\u516c\u53f8",
+            "english_name": "\u6dd8\u5b9d\u4e2d\u56fd\u63a7\u80a1\u6709\u9650\u516c\u53f8"
+        }
+    },
+    {
+        "id": "recug4602aTXVHIHx",
+        "createdTime": "2022-07-31T21:22:36.000Z",
+        "fields": {
+            "english_name": "D\u00e0i Sh\u0101n"
+        }
+    },
+    {
+        "id": "recvYnDArUrBuHWk7",
+        "createdTime": "2022-07-24T21:47:37.000Z",
+        "fields": {
+            "year_founded_source_url": "https://www.qcc.com/firm/g01ddc33705a52e6ab294d6cfe43fa74.html",
+            "year_founded_source": "Qichacha",
+            "hq_location": [
+                "Chengdu, Sichuan, China"
+            ],
+            "_full_chinese_name": "\u4e2d\u56fd\u5730\u8d28\u79d1\u5b66\u9662\u77ff\u4ea7\u7efc\u5408\u5229\u7528\u7814\u7a76\u6240",
+            "year_founded": "2019"
+        }
+    },
+    {
+        "id": "recwsjyyOWald4jqF",
+        "createdTime": "2022-07-24T21:48:04.000Z",
+        "fields": {
+            "_owner_3_share_class TEST": "H\u80a1",
+            "year_founded_source_url": "https://www.qcc.com/firm/b4858d5cc72e05c7a1622b2eda293986.html",
+            "owner_3": [
+                "rec7NhaXtlx2zmGmU"
+            ],
+            "_owner_4_share_class TEST": "H\u80a1",
+            "_owner_1_number_of_shares TEST": "22,137,239,084",
+            "year_founded_source": "Qichacha",
+            "_owner_4_change_in_percent TEST": "-",
+            "hq_location": [
+                "Beijing, China"
+            ],
+            "owner_1_source_url": "https://www.qcc.com/chkstock/b4858d5cc72e05c7a1622b2eda293986.html",
+            "owner_2_source": "Qichacha",
+            "owner_1_source": "Qichacha",
+            "_owner_2_change_in_percent TEST": "-",
+            "owner_4_source": "Qichacha",
+            "_full_chinese_name": "\u4e2d\u56fd\u4fe1\u8fbe\u8d44\u4ea7\u7ba1\u7406\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "owner_4_source_url": "https://www.qcc.com/chkstock/b4858d5cc72e05c7a1622b2eda293986.html",
+            "_owner_1_share_class TEST": "\u5185\u8d44\u80a1",
+            "_owner_1_change_in_percent TEST": "-",
+            "owner_2": [
+                "recB8oU2exGkioJIv"
+            ],
+            "_owner_2_share_class TEST": "\u5185\u8d44\u80a1,H\u80a1",
+            "owner_3_source_url": "https://www.qcc.com/chkstock/b4858d5cc72e05c7a1622b2eda293986.html",
+            "owner_4": [
+                "recFDtpn6TEYMWP7W"
+            ],
+            "owner_3_source": "Qichacha",
+            "year_founded": "1999",
+            "_owner_2_number_of_shares TEST": "5,360,699,325",
+            "owner_1": [
+                "rec7oT2z77Is4nOjG"
+            ],
+            "_owner_3_number_of_shares TEST": "1,907,845,112",
+            "owner_2_source_url": "https://www.qcc.com/chkstock/b4858d5cc72e05c7a1622b2eda293986.html",
+            "_owner_4_number_of_shares TEST": "7,673,611",
+            "_owner_3_change_in_percent TEST": "-"
+        }
+    },
+    {
+        "id": "recxwLbcrpNy3NbrU",
+        "createdTime": "2022-08-07T19:55:48.000Z",
+        "fields": {
+            "_full_chinese_name": "\u6c5f\u897f\u8d63\u950b\u9502\u4e1a\u80a1\u4efd\u6709\u9650\u516c\u53f8",
+            "_registered_capital": "212.4 M"
+        }
+    },
+    {
+        "id": "recy3EEJviOUEynBT",
+        "createdTime": "2022-07-31T20:14:57.000Z",
+        "fields": {
+            "_full_chinese_name": "\u6b66\u6c49\u6597\u9c7c\u7ba1\u7406\u54a8\u8be2\u6709\u9650\u516c\u53f8",
+            "english_name": "Wuhan Betta Management Consulting"
+        }
+    },
+    {
+        "id": "recy7VaayLujs6ZwS",
+        "createdTime": "2022-08-07T23:32:13.000Z",
+        "fields": {
+            "_full_chinese_name": "\u5b98\u5b66\u6e05",
+            "english_name": "Gu\u0101n Xu\u00e9q\u012bng",
+            "chinese_name": "\u5b98\u5b66\u6e05"
         }
     }
 ]

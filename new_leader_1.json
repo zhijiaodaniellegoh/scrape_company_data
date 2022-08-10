@@ -1,0 +1,19 @@
+{
+    "records": [
+        {
+            "id": "rec3ITQ2KKYVW5rN1",
+            "fields": {
+                "_full_chinese_name": "\u94f6\u946b",
+                "chinese_name": "\u94f6\u946b"
+            }
+        },
+        {
+            "id": "recpezU3GPacGiNqC",
+            "fields": {
+                "_full_chinese_name": "\u6768\u8fdc\u7199",
+                "chinese_name": "\u6768\u8fdc\u7199"
+            }
+        }
+    ],
+    "typecast": true
+}
