@@ -4,7 +4,9 @@ Macau,澳門,Macau
 Beijing,北京市,Beijing
 Chongqing,重庆市,Chongqing
 Shanghai,上海市,Shanghai
+Shanghai,上海,Shanghai
 Tianjin,天津市,Tianjin
+Haikou,海南,Hainan
 Anqing,安庆市,Anhui
 Bengbu,蚌埠市,Anhui
 Bozhou,亳州市,Anhui
@@ -279,7 +281,7 @@ Shiyan,十堰市,Hubei
 Suizhou,随州市,Hubei
 Songzi,松滋市,Hubei
 Tianmen,天门市,Hubei
-Wuhan,武汉市,Hubei
+Wuhan,武汉,Hubei
 Wuxue,武穴市,Hubei
 Xiangyang,襄阳市,Hubei
 Xianning,咸宁市,Hubei
@@ -362,6 +364,7 @@ Pizhou,邳州市,Jiangsu
 Qidong,启东市,Jiangsu
 Rugao,如皋市,Jiangsu
 Suqian,宿迁市,Jiangsu
+Suzhou,苏州,Jiangsu
 Suzhou,苏州市,Jiangsu
 Taicang,太仓市,Jiangsu
 Taixing,泰兴市,Jiangsu
